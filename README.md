@@ -16,7 +16,7 @@ Gw Liatin Lu Ajc Biar Lu Gk Recode -_-
 •pip install mechanize
 •pip install bs4
 •pkg install git
-•git clone https://github.com/ariszywlafa1/kalender
+•git clone https://github.com/ariszulwafa/kalender
 •cd kalkulator
 •python kalkulator.py
 
